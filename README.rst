@@ -3,13 +3,13 @@ spotify-py
 ==========
 
 
-Add a short description here!
+Python Library for controlling spotify Desktop Application on Mac.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Python Library for controlling spotify Desktop Application on Mac.
 
 
 Note
