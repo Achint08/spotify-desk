@@ -1,5 +1,5 @@
 ==========
-spotify-py
+spotify-desk
 ==========
 
 
